@@ -1,0 +1,5 @@
+[{"name":"mercado bitcoin","cost":0.007,"bid":29527.50001,"ask":29700},
+
+{"name":"braziliex","cost":0.005,"bid":24666.03,"ask":25199.99},
+
+{"name":"negociecoins","cost":0.005,"bid":30076.01,"ask":30159}]
